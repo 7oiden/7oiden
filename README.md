@@ -1,8 +1,11 @@
 ### Hi there I'm Tommy a Frontend developer from Norway👋
 
-<a href="https://www.instagram.com/7oiden/">Instagram</a>
-<a href="https://www.linkedin.com/in/tommy-j-16b56678/">LinkedIn</a>
-<a href="https://tommy-johnsen-portfolio.netlify.app/">My portfolio</a>
+<h3>Links</h3>
+<ul>
+  <li><a href="https://www.instagram.com/7oiden/">Instagram</a></li>
+  <li><a href="https://www.linkedin.com/in/tommy-j-16b56678/">LinkedIn</a></li>
+  <li><a href="https://tommy-johnsen-portfolio.netlify.app/">My portfolio</a></li>
+</ul>
 
 
 <!--
