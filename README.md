@@ -1,5 +1,21 @@
 ### Hi there I'm Tommy a Frontend developer from Norway👋
 
+<h3>Hobbies & interests</h3>
+<ul>
+  <li>Photography</li>
+  <li>Movies</li>
+  <li>Football</li>
+  <li>Gaming</li>
+  <li>Litterature</li>
+  <li>Music</li>
+  <li>Mindfulness</li>
+  <li>Science</li>
+  <li>The Metaverse</li>
+  <li>Biohacking</li>
+  <li>Working out</li>
+  <li>Hiking</li>
+</ul>  
+
 <h3>Learn more about me:</h3>
 <ul>
   <li><a href="https://www.instagram.com/7oiden/">Instagram</a></li>
