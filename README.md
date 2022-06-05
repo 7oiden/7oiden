@@ -1,5 +1,5 @@
 ### Hello world!👋 
-I'm Tommy a recently graduated Frontend developer from Noroff School of Technology and digital media.
+I'm Tommy, a Frontend Developer graduated from from Noroff School of Technology and Digital Media in June 2022.
 
 <h3>Hobbies & interests</h3>
 <ul>
