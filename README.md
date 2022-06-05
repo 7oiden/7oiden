@@ -1,4 +1,4 @@
-### Hi there I'm Tommy a Frontend developer from Norway👋
+### Hi there👋 I'm Tommy a recently graduated Frontend developer from Noroff School of Technology and digital media.
 
 <h3>Hobbies & interests</h3>
 <ul>
