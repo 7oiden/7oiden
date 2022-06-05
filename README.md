@@ -1,6 +1,6 @@
 ### Hi there I'm Tommy a Frontend developer from Norway👋
 
-<h3>Links</h3>
+<h3>Learn more about me:</h3>
 <ul>
   <li><a href="https://www.instagram.com/7oiden/">Instagram</a></li>
   <li><a href="https://www.linkedin.com/in/tommy-j-16b56678/">LinkedIn</a></li>
