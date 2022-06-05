@@ -1,6 +1,6 @@
 ### Hi there I'm Tommy a Frontend developer from Norway👋
 
-<a href="https://spectacular-taiyaki-4bc1fc.netlify.app/">Test</a>
+<a href="https://www.instagram.com/7oiden/">Instagram</a>
 
 <!--
 **7oiden/7oiden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
