@@ -1,7 +1,7 @@
 ### Hello world!👋 
 I'm Tommy, a Frontend Developer graduated from Noroff School of Technology and Digital Media in June 2022.
 
-Currently I'm currently working on a air-condition service website (coded with ReactJS) for a relative, while applying for jobs.
+Currently I'm working on a air-condition service website (coded with ReactJS) for a relative, while applying for jobs.
 
 
 <h3>Hobbies & interests</h3>
