@@ -5,8 +5,7 @@ Currently I'm working on a air-condition service website (coded with ReactJS) fo
 
 
 ### Hobbies & interests
-<ul>
-  - Photography
+- Photography
   - Movies</li>
   - Football</li>
   <li>Gaming</li>
