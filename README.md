@@ -19,9 +19,9 @@ Currently I'm working on a air-condition service website (coded with ReactJS) fo
 - Hiking
  
 ## Learn more about me:
-- [Instagram]("https://www.instagram.com/7oiden/")
-- [LinkedIn](https://www.linkedin.com/in/tommy-j-16b56678/")
-- [My Portfolio](https://tommy-johnsen-portfolio.netlify.app/")
+- [Instagram](https://www.instagram.com/7oiden/)
+- [LinkedIn](https://www.linkedin.com/in/tommy-j-16b56678/)
+- [My Portfolio](https://tommy-johnsen-portfolio.netlify.app/)
 
 
 <!--
