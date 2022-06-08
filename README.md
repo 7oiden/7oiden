@@ -1,30 +1,27 @@
-### Hello world!👋 
+# Hello world!👋 
 I'm Tommy, a Frontend Developer graduated from Noroff School of Technology and Digital Media in June 2022.
 
 Currently I'm working on a air-condition service website (coded with ReactJS) for a relative, while applying for jobs.
 
 
-### Hobbies & interests
+## Hobbies & interests
 - Photography
-  - Movies</li>
-  - Football</li>
-  <li>Gaming</li>
-  <li>Litterature</li>
-  <li>Music</li>
-  <li>Mindfulness</li>
-  <li>Science</li>
-  <li>The Metaverse</li>
-  <li>Biohacking</li>
-  <li>Working out</li>
-  <li>Hiking</li>
-</ul>  
-
-<h3>Learn more about me:</h3>
-<ul>
-  <li><a href="https://www.instagram.com/7oiden/">Instagram</a></li>
-  <li><a href="https://www.linkedin.com/in/tommy-j-16b56678/">LinkedIn</a></li>
-  <li><a href="https://tommy-johnsen-portfolio.netlify.app/">My portfolio</a></li>
-</ul>
+- Movies
+- Football
+- Gaming
+- Litterature
+- Music
+- Mindfulness
+- Science
+- The Metaverse
+- Biohacking
+- Working out
+- Hiking
+ 
+## Learn more about me:
+- <a href="https://www.instagram.com/7oiden/">Instagram</a>
+- <a href="https://www.linkedin.com/in/tommy-j-16b56678/">LinkedIn</a>
+- <a href="https://tommy-johnsen-portfolio.netlify.app/">My portfolio</a>
 
 
 <!--
