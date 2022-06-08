@@ -6,9 +6,9 @@ Currently I'm working on a air-condition service website (coded with ReactJS) fo
 
 ### Hobbies & interests
 <ul>
-  <li>Photography</li>
-  <li>Movies</li>
-  <li>Football</li>
+  - Photography
+  - Movies</li>
+  - Football</li>
   <li>Gaming</li>
   <li>Litterature</li>
   <li>Music</li>
