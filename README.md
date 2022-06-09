@@ -6,7 +6,7 @@
 
 - Currently working on a air-condition service website (coded with React), while applying for jobs.
 
-</hr>
+<hr/>
 
 ## Skills
 - HTML
