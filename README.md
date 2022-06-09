@@ -7,7 +7,10 @@ Currently I'm working on a air-condition service website (coded with ReactJS) fo
 - HTML
 - CSS
 - Javascript
-- ReactJS
+- React
+- Sass
+- Bootstrap
+- Wordpress
 
 ## Hobbies & interests
 - Photography
