@@ -6,7 +6,6 @@ A Frontend Developer graduated from Noroff School of Technology and Digital Medi
 
 Currently I'm working on a air-condition service website (coded with ReactJS) for a relative, while applying for jobs.
 
-![image](https://res.cloudinary.com/dhd2paq70/image/upload/v1654779559/github-bg_umhjnd.jpg)
 
 ## Skills
 - HTML
