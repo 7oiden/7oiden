@@ -1,5 +1,3 @@
-//# Hello world!👋
-
 ![image](https://res.cloudinary.com/dhd2paq70/image/upload/v1654779559/github-bg_umhjnd.jpg)
 
 A Frontend Developer graduated from Noroff School of Technology and Digital Media in June 2022.
@@ -40,6 +38,8 @@ Currently I'm working on a air-condition service website (coded with ReactJS) fo
 
 <!--
 **7oiden/7oiden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+# Hello world!👋
 
 Here are some ideas to get you started:
 
