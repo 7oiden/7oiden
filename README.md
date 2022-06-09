@@ -11,6 +11,8 @@ Currently I'm working on a air-condition service website (coded with ReactJS) fo
 - Sass
 - Bootstrap
 - Wordpress
+- Adobe XD
+- Adobe Photoshop
 
 ## Hobbies & interests
 - Photography
