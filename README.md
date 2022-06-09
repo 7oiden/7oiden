@@ -1,4 +1,7 @@
 # Hello world!👋 
+
+![image](https://user-images.githubusercontent.com/52622303/164316813-4b12d99f-aeb7-4069-85cf-e72b3a50ac99.png)
+
 I'm Tommy, a Frontend Developer graduated from Noroff School of Technology and Digital Media in June 2022.
 
 Currently I'm working on a air-condition service website (coded with ReactJS) for a relative, while applying for jobs.
