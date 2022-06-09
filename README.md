@@ -38,7 +38,7 @@
 - [LinkedIn](https://www.linkedin.com/in/tommy-j-16b56678/)
 - [My Portfolio](https://tommy-johnsen-portfolio.netlify.app/)
 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+![linkedin](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
 
 
 <!--
