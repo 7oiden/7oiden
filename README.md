@@ -1,8 +1,10 @@
 ![image](https://res.cloudinary.com/dhd2paq70/image/upload/v1654779559/github-bg_umhjnd.jpg)
 
-A Frontend Developer graduated from Noroff School of Technology and Digital Media in June 2022.
+# Frontend Developer 
 
-Currently I'm working on a air-condition service website (coded with ReactJS) for a relative, while applying for jobs.
+- Graduated from Noroff School of Technology and Digital Media in June 2022.
+
+- Currently working on a air-condition service website (coded with React), while applying for jobs.
 
 
 ## Skills
