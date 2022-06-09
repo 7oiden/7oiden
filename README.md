@@ -3,6 +3,11 @@ I'm Tommy, a Frontend Developer graduated from Noroff School of Technology and D
 
 Currently I'm working on a air-condition service website (coded with ReactJS) for a relative, while applying for jobs.
 
+##Skills
+- HTML
+- CSS
+- Javascript
+- ReactJS
 
 ## Hobbies & interests
 - Photography
