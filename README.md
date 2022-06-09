@@ -1,6 +1,6 @@
-![image](https://res.cloudinary.com/dhd2paq70/image/upload/v1654777859/markus-spiske-cvBBO4PzWPg-unsplash_1_dsppvj.jpg)
+![image](https://res.cloudinary.com/dhd2paq70/image/upload/v1654779098/lilzidesigns-3iUE4iEIdJw-unsplash_xfspgn.jpg)
 
-# Hello world!👋 .
+# Hello world!👋
 
 I'm Tommy, a Frontend Developer graduated from Noroff School of Technology and Digital Media in June 2022.
 
