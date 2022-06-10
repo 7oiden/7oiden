@@ -16,8 +16,12 @@
   <img src="https://komarev.com/ghpvc/?username=7oiden&style=flat-square&color=blue" alt=""/>
 </div>
 
-# Frontend Developer
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
+I'm a frontend developer from Norway
 
 🏫 Graduated from Noroff School of Technology and Digital Media in June 2022.
 
