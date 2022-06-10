@@ -2,6 +2,7 @@
 ![image](https://res.cloudinary.com/dhd2paq70/image/upload/v1654852654/github-bg.jpg_ofycqb.png)
 
 <div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=7oiden&style=flat-square&color=blue" alt=""/>
   <div id="badges">
    <a href="https://www.linkedin.com/in/tommy-j-16b56678/">
      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -13,7 +14,7 @@
       <img src="https://img.shields.io/badge/My portfolio-orange?style=for-the-badge" alt="My portfolio"/>
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=7oiden&style=flat-square&color=blue" alt=""/>
+  
 </div>
 
 # About me
