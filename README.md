@@ -1,3 +1,4 @@
+<div id="header" align="center">
 ![image](https://res.cloudinary.com/dhd2paq70/image/upload/v1654779559/github-bg_umhjnd.jpg)
 
 # Frontend Developer 
@@ -17,6 +18,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+  </div>
 
 <hr/>
 
