@@ -7,19 +7,18 @@
 
 - Currently working on a air-condition service website (coded with React), while applying for jobs.
 
-<div id="header" align="center">
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/tommy-j-16b56678/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.instagram.com/7oiden/">
-    <img src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="https://twitter.com/7oiden">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-  </div>
 
 <hr/>
 
