@@ -17,7 +17,7 @@
 
 # Frontend Developer 
 
-- Graduated from Noroff School of Technology and Digital Media in June 2022.
+🏫 Graduated from Noroff School of Technology and Digital Media in June 2022.
 
 - Currently working on a air-condition service website (coded with React), while applying for jobs.
 
