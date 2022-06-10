@@ -1,5 +1,5 @@
 
-![image](https://res.cloudinary.com/dhd2paq70/image/upload/v1654779559/github-bg_umhjnd.jpg)
+![image](https://res.cloudinary.com/dhd2paq70/image/upload/v1654852654/github-bg.jpg_ofycqb.png)
 
 <div id="header" align="center">
   <div id="badges">
