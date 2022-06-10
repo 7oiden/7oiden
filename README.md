@@ -15,7 +15,7 @@
   </div>
 </div>
 
-# Frontend Developer ![image](https://user-images.githubusercontent.com/71312544/173033382-6c323cd7-dbd1-4d2b-a6c3-d6d7635383f9.png)
+# Frontend Developer
 
 
 🏫 Graduated from Noroff School of Technology and Digital Media in June 2022.
