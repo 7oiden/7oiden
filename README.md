@@ -1,12 +1,6 @@
 
 ![image](https://res.cloudinary.com/dhd2paq70/image/upload/v1654779559/github-bg_umhjnd.jpg)
 
-# Frontend Developer 
-
-- Graduated from Noroff School of Technology and Digital Media in June 2022.
-
-- Currently working on a air-condition service website (coded with React), while applying for jobs.
-
 <div id="header" align="center">
   <div id="badges">
    <a href="https://www.linkedin.com/in/tommy-j-16b56678/">
@@ -20,6 +14,13 @@
     </a>
   </div>
 </div>
+
+# Frontend Developer 
+
+- Graduated from Noroff School of Technology and Digital Media in June 2022.
+
+- Currently working on a air-condition service website (coded with React), while applying for jobs.
+
 <hr/>
 
 ## Skills
