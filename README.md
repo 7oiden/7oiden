@@ -26,8 +26,6 @@ I'm a frontend developer from Norway who graduated from Noroff School of Technol
 
 > ***If it is not right, do not do it, if it is not true, do not say it.*** -Marcus Aurelius
 
-<hr/>
-
 ## Skills
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML 5" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS 3" width="40" height="40"/>&nbsp;
