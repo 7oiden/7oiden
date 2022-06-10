@@ -1,6 +1,8 @@
 
 ![image](https://res.cloudinary.com/dhd2paq70/image/upload/v1654779559/github-bg_umhjnd.jpg)
 
+[My portfolio](https://tommy-johnsen-portfolio.netlify.app/)
+
 <div id="header" align="center">
   <div id="badges">
    <a href="https://www.linkedin.com/in/tommy-j-16b56678/">
