@@ -35,7 +35,7 @@
  
 ## Learn more about me:
 - [Instagram](https://www.instagram.com/7oiden/)
-- [LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)
+- [LinkedIn](https://www.linkedin.com/in/tommy-j-16b56678/)
 - [My Portfolio](https://tommy-johnsen-portfolio.netlify.app/)
 
 https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge
