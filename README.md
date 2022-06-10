@@ -22,7 +22,8 @@ I'm a frontend developer from Norway who graduated from Noroff School of Technol
 
 - Currently working on a air-condition service website (coded with React), while applying for jobs.
 
-&nbsp
+<hr/>
+
 > ***If it is not right, do not do it, if it is not true, do not say it.*** -Marcus Aurelius
 
 <hr/>
