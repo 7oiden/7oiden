@@ -15,7 +15,8 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=7oiden&style=flat-square&color=blue" alt=""/>
 </div>
-&nbsp;
+&nbsp
+
  > ***If it is not right, do not do it, if it is not true, do not say it.*** -Marcus Aurelius
 
 
