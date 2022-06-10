@@ -1,4 +1,4 @@
-<div id="header" align="center">
+
 ![image](https://res.cloudinary.com/dhd2paq70/image/upload/v1654779559/github-bg_umhjnd.jpg)
 
 # Frontend Developer 
@@ -7,6 +7,7 @@
 
 - Currently working on a air-condition service website (coded with React), while applying for jobs.
 
+<div id="header" align="center">
 <div id="badges">
   <a href="https://www.linkedin.com/in/tommy-j-16b56678/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
