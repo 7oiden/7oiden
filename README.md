@@ -16,14 +16,14 @@
   <img src="https://komarev.com/ghpvc/?username=7oiden&style=flat-square&color=blue" alt=""/>
 </div>
 
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+"If it is not right, do not do it, if it is not true, do not say it."
 
-I'm a frontend developer from Norway
+-Marcus Aurelius
 
-🏫 Graduated from Noroff School of Technology and Digital Media in June 2022.
+#About me
+
+I'm a frontend developer from Norway who graduated from Noroff School of Technology and Digital Media in June 2022.
+
 
 - Currently working on a air-condition service website (coded with React), while applying for jobs.
 
