@@ -15,7 +15,7 @@
   <a href="https://www.instagram.com/7oiden/">
     <img src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://twitter.com/7oiden">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
