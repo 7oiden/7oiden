@@ -13,6 +13,7 @@
       <img src="https://img.shields.io/badge/My portfolio-orange?style=for-the-badge" alt="My portfolio"/>
     </a>
   </div>
+  <img src="https://komarev.com/ghpvc/?username=7oiden&style=flat-square&color=blue" alt=""/>
 </div>
 
 # Frontend Developer
