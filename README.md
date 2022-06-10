@@ -22,9 +22,9 @@ I'm a frontend developer from Norway who graduated from Noroff School of Technol
 
 - Currently working on a air-condition service website (coded with React), while applying for jobs.
 
-<hr/>
-
 > ***If it is not right, do not do it, if it is not true, do not say it.*** -Marcus Aurelius
+
+<hr/>
 
 ## Skills
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML 5" width="40" height="40"/>&nbsp;
