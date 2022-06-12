@@ -65,10 +65,10 @@
 
 ### My Stats :
  
- <div align=center>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7oiden&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7oiden&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=7oiden&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=7oiden&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <!--
