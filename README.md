@@ -23,6 +23,8 @@
 
 🔭 Currently I'm working on a air-condition service website coded with Next JS, all while applying for jobs.
 
+🧔 Check out my portfolio site to learn more about me.
+
 <hr/>
 
 > ***If it is not right, do not do it, if it is not true, do not say it.*** -Marcus Aurelius
