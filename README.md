@@ -14,7 +14,6 @@
       <img src="https://img.shields.io/badge/My portfolio-orange?style=for-the-badge" alt="My portfolio"/>
     </a>
   </div>
-  
 </div>
 
 # About me
