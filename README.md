@@ -30,7 +30,8 @@
 
 > ***If it is not right, do not do it, if it is not true, do not say it.*** -Marcus Aurelius
 
-<hr/>
+&nbsp;
+
 
 ## Languages & skills
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML 5" width="40" height="40"/>&nbsp;
