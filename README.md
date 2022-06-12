@@ -21,7 +21,7 @@
 
 🏫 I'm a frontend developer from Norway who graduated from Noroff School of Technology and Digital Media in June 2022.
 
-🔭 Currently I'm working on a air-condition service website (coded with React), while applying for jobs.
+🔭 Currently I'm working on a air-condition service website coded with Next JS, all while applying for jobs.
 
 <hr/>
 
