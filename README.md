@@ -25,8 +25,6 @@
 
 🧔 Check out [my portfolio](https://tommy-johnsen-portfolio.netlify.app/) to learn more about me.
 
-<hr/>
-
 > ***If it is not right, do not do it, if it is not true, do not say it.*** -Marcus Aurelius
 
 <hr/>
