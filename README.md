@@ -49,7 +49,7 @@
 
 ## Hobbies & interests
 - Photography
-- Movies
+- Cinema
 - Football
 - Gaming
 - Litterature
