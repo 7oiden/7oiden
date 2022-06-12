@@ -24,6 +24,7 @@
 🔭 Currently I'm working on a air-condition service website coded with Next JS, all while applying for jobs.
 
 🧔 Check out [my portfolio](https://tommy-johnsen-portfolio.netlify.app/) to learn more about me.
+
 &nbsp;
 
 
