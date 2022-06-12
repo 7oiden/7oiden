@@ -67,6 +67,8 @@
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7oiden&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=7oiden&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **7oiden/7oiden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
