@@ -65,7 +65,7 @@
 
 ### My Stats :
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7oiden&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7oiden&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
