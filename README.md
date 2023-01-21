@@ -18,7 +18,7 @@
 
 # About me
 
-![image](https://user-images.githubusercontent.com/71312544/213883824-57119027-d5f6-4ac0-9104-0e25c36d364f.png)I'm a frontend-developer from Norway who obtained a higher professional degree as a frontend-developer at [Noroff School of Technology and Digital Media](https://www.noroff.no/en/studies/vocational-school/front-end-development) in 2022.
+*️⃣ I'm a frontend-developer from Norway who obtained a higher professional degree as a frontend-developer at [Noroff School of Technology and Digital Media](https://www.noroff.no/en/studies/vocational-school/front-end-development) in 2022.
 
 🔭 Currently I'm attending the course [The Frontend Developer Career Path](https://scrimba.com/learn/frontend) provided by [Scrimba](https://scrimba.com/) online coding school. I'm also working on an air-condition service website coded with Next JS. All while applying for jobs.
 
