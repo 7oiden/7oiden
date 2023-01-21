@@ -45,7 +45,10 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg" title="XD" alt="XD" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Netlify-Dark.svg" title="Netlify" alt="Netlify" width="40" height="40"/>&nbsp;
-<img src=https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Wordpress.svg title="Wordpress" alt="Wordpress" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Wordpress.svg" title="Wordpress" alt="Wordpress" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Wordpress.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Wordpress.svg" title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Wordpress.svg" title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp;
 
 ## Hobbies & interests
 - Photography
