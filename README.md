@@ -22,7 +22,7 @@
 
 🔭 Currently I'm attending the online course "The Frontend Developer Career Path" provided by the [Scrimba coding school](https://scrimba.com/). I'm also working on an air-condition service website coded with Next JS. All while applying for jobs.
 
-🧔 Check out [my portfolio](https://tommy-johnsen-portfolio.netlify.app/) to learn more about me and my work.
+🧔 Check out [My portfolio](https://tommy-johnsen-portfolio.netlify.app/) to learn more about me and my work.
 
 &nbsp;
 
