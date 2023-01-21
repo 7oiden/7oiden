@@ -18,9 +18,9 @@
 
 # About me
 
-🏫 I'm a frontend developer from Norway who graduated from Noroff School of Technology and Digital Media in June 2022.
+🏫 I'm a frontend-developer from Norway who obtained a higher professional degree as a frontend-developer at Noroff School of Technology and Digital Media in 2022.
 
-🔭 Currently I'm working on an air-condition service website coded with Next JS, all while applying for jobs.
+🔭 Currently I'm attending the online course "The Frontend Developer Career Path" provided by the Scrimba coding school. I'm also working on an air-condition service website coded with Next JS. All while applying for jobs.
 
 🧔 Check out [my portfolio](https://tommy-johnsen-portfolio.netlify.app/) to learn more about me and my work.
 
@@ -55,8 +55,9 @@
 - Music
 - Mindfulness
 - Science
-- The Metaverse
-- Biohacking
+- Technology
+- Health
+- Psychology
 - Working out
 - Hiking
 
