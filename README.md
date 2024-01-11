@@ -18,13 +18,13 @@
 
 # About me
 
-*️⃣ I'm a frontend-developer from Norway who obtained a higher professional degree as a frontend-developer at [Noroff School of Technology and Digital Media](https://www.noroff.no/en/studies/vocational-school/front-end-development) in 2022.
+⚡ I'm a frontend-developer from Norway who obtained a higher professional degree as a frontend-developer at [Noroff School of Technology and Digital Media](https://www.noroff.no/en/studies/vocational-school/front-end-development) in 2022.
 
-*️⃣ Currently I'm attending the course [The Frontend Developer Career Path](https://scrimba.com/learn/frontend) provided by [Scrimba](https://scrimba.com/) online coding school.
+⚡ Currently I'm attending the course [The Frontend Developer Career Path](https://scrimba.com/learn/frontend) provided by [Scrimba](https://scrimba.com/) online coding school.
 
-*️⃣ Check out [My Portfolio](https://tommy-johnsen-portfolio.netlify.app/) to learn more about me and my work.
+⚡ Check out [My Portfolio](https://tommy-johnsen-portfolio.netlify.app/) to learn more about me and my work.
 
-*️⃣ Open to work.
+⚡ Open to work.
 
 &nbsp;
 
